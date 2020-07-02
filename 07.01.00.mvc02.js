@@ -45,7 +45,7 @@ const viewLogin = require('./controllers/logincontroller');
 /// ***************** 
 //const uri = 'mongodb://localhost:27017/atnshop';
 //const urixx = "mongodb+srv://db03:aGBZRta11CBmt8qL@cluster0-q8a6f.mongodb.net/CloudDB?retryWrites=true&w=majority";
-const uri = "mongodb+srv://user:123@cluster0-mp7dy.mongodb.net/<abc>?retryWrites=true&w=majority";
+const uri = "mongodb+srv://kiet:kiet @cluster0-mp7dy.mongodb.net/<abc>?retryWrites=true&w=majority";
 
 /// ***************** ***************** *****************
 /// ***************** Database & Bảng dữ liệu cần Truy vấn
